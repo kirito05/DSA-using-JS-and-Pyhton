@@ -17,4 +17,6 @@ function bubbleSort(arr){
     return arr
 }   
 
+//trying for another approach
+
 // arr = [0,7,9,2]
