@@ -2,7 +2,7 @@
 
 This repository is dedicated to Data Structures and Algorithms (DSA) questions and their solutions, with a focus on the most common types of questions. The solutions are provided in Python and JavaScript, making it suitable for developers proficient in either language.
 
-## Purpose
+## Purpos
 
 The main purpose of this repository is to serve as a resource for the DSA 100-day challenge. It aims to provide comprehensive explanations and solutions to various DSA questions, helping developers enhance their problem-solving skills and gain a deeper understanding of algorithms and data structures.
 
