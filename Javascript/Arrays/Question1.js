@@ -20,6 +20,7 @@ function SumOfAllEvenNumbers(arr){
 
 let sum = SumOfAllEvenNumbers([1,2,3,4,5,6,7,8,9,10]);
 console.log(sum);
+//new comment 
 
 
 // question 2: Given an array of numbers, write a function to find the sum of all the numbers in the array.
